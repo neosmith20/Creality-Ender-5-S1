@@ -29,3 +29,4 @@
 - [PENGLIN USB-C Panel Mount Coupler (2 Pack)](https://www.amazon.com/dp/B0B7QYG313)
 - [StarTech 3ft Right Angle USB Cable](https://www.amazon.com/dp/B003B454YY)
 - [Anker USB-C Adapter](https://www.amazon.com/dp/B08HZ6PS61)
+- [BIGTREETECH Smart Filament Sensor Filament V2.0](https://www.amazon.com/BIGTREETECH-SFS-V2-0-Filament-Compatible/dp/B0C77J36T3)
